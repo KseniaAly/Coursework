@@ -1,0 +1,18 @@
+@font-face{
+    font-family: "BizuBold";
+    src: url(../fonts/BIZUDGothic-Bold.ttf);
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face{
+    font-family: "Inter";
+    src: url(../fonts/Inter-Regular.otf);
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face{
+    font-family: "Amatic SC";
+    src: url(../fonts/AmaticSC-Bold.ttf);
+    font-style: normal;
+    font-weight: 700;
+}
